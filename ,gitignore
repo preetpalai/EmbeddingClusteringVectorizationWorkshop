@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Data files (if you don't want to commit large data files)
+Data/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# VSCode settings (if you use VSCode)
+.vscode/
+
+# macOS system files
+.DS_Store
